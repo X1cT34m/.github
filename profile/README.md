@@ -10,6 +10,6 @@ X1cT34m是由南京邮电大学一群对信息安全感兴趣的年轻人组成�
 
 查看我们的历史荣誉：[历史荣誉 | 小绿草信息安全实验室](https://ctf.njupt.edu.cn/honors)
 
-联系我们：`admin[at]x1ct34m.com`
+联系我们：`admin@x1ct34m.com`
 
 ![](https://cdn.jsdelivr.net/gh/Anthem-whisper/imgbed/img/202207171739448.png)
